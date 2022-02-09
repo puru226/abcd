@@ -30,3 +30,8 @@ These cause technical problems in some Internet browsers.
 
 The Turing Test is a deceptively simple method of determining whether a machine can demonstrate human intelligence: If a machine can engage in a conversation with a human without being detected as a machine, it has demonstrated human intelligence.
 
+
+
+
+Completely Automated Public Turing test to tell Computers and Humans Apart (CAPTCHA) Definition(s): An interactive feature added to web forms to distinguish whether a human or automated agent is using the form. Typically, it requires entering text corresponding to a distorted image or a sound stream.
+
