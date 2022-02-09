@@ -1,0 +1,26 @@
+Text Recognition Bases
+Image Recognition Based
+Audio Recognition Based
+Audio Recognition Based
+3D Captcha
+Ad Injected Captcha
+
+
+
+
+If you use Captcha in the comment box of the blog, then spam comments will stop coming to your blog.
+Many online websites are used to use CAPTCHA in a save way
+It is used in a website because Solve can only be done by humans, no machine or computer.
+Using Captcha, you can save your email address from Email Scrapers
+You can use it to protect the website from dictionary attack.
+
+
+
+
+
+If something has advantages, then there are also disadvantages with them. So far you have learned the advantages of Captcha, but you also need to know about its disadvantages.
+
+Sometimes difficulty in understanding and reading some Captcha.
+This is not right for the Disabilities user.
+It takes more time to create any ID through this.
+These cause technical problems in some Internet browsers.
